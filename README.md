@@ -1,13 +1,12 @@
-### Hi there, I'm Md Nazmul Islam - [devnazmul][website] 👋
+# Hi there, I'm Md Nazmul Islam - [devnazmul][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://four-arms-tech.rf.gd)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/)
+[![Website](https://lh3.googleusercontent.com/-xgNFmCW18EsI6JYbSqJCI7s1Zh-DAKB1IMujI82u4y7CgOhjlXPdRBIbIM3aN95PkXh_1zcOAqIY35O-cIN7qZNsGMy_jPLlmzyC-FLb1geHSpLitqaFutphAfPKnqYDltLQEsGgUXkpu4VIAP3uoo3zsmliX45EopV7wI87YnLAuDP8_37n3xek0eRQy99SXGbYppG95MByhQ9VsZ8MuSertuoUv30TINU0UwCmC8guXkljc81gQwGQKKk63cMHN0MqxSXXTip_orj477LP1kQ7HsRJ2XDXqpvRoMfjy3GSA7i3GSojvrukKam6lKWBmc7SfVtI_XXkjZl9uTpH9hn3gcZs4qS0uMDaJTlEHVuYHR34wJQJ3ekO0OSyDIJ5Lv-b694YB8R1_2MoHfKylEVFtLgh2aHVtucs6bcMCugGCJAAannTaUFTORm88HZvWDctPBVvPVIBkuFt4yVKWv-ugxXkTvMT-PoULMkgGfj2ohBaK3KhQKey7_l0N8cIeHAbJg0w5vGGtku5L0DY4ji9KdYTsdoNPAc-dQV-2-MsiR0mrldLPBxVOZLQ1TjDOPEbpuPiOmfyHY3NxF_GVVWiQgaMrwMmUoguBlRiesbPXQxxY7bHknDdqe1XhC_SU0gcDC-f91BWHqFWqXFfESwDYsPVsIQ8nPmtp75wuEJbL5mi94khZ9gxW94V2aGeyOYLAw9vkCC9llpA-nbjvnz=w179-h28-no?authuser=0)](https://four-arms-tech.rf.gd)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/) -->
 
 ## I'm a Son, Husband, Developer, and Teacher!!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
-
-- 🌱 I’m currently learning MERN Stack 🤣
+- 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to code and watching 👻 horror movies
@@ -107,12 +106,12 @@
 
 <!-- </details> -->
 
-<details>
+<!-- <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-</details>
+</details> -->
 
 [website]: http://four-arms-tech.unaux.com
 
