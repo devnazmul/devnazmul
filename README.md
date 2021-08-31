@@ -1,6 +1,6 @@
 # Hi there, I'm Md Nazmul Islam - [devnazmul][website] 👋
 
-[![Website](https://lh3.googleusercontent.com/-xgNFmCW18EsI6JYbSqJCI7s1Zh-DAKB1IMujI82u4y7CgOhjlXPdRBIbIM3aN95PkXh_1zcOAqIY35O-cIN7qZNsGMy_jPLlmzyC-FLb1geHSpLitqaFutphAfPKnqYDltLQEsGgUXkpu4VIAP3uoo3zsmliX45EopV7wI87YnLAuDP8_37n3xek0eRQy99SXGbYppG95MByhQ9VsZ8MuSertuoUv30TINU0UwCmC8guXkljc81gQwGQKKk63cMHN0MqxSXXTip_orj477LP1kQ7HsRJ2XDXqpvRoMfjy3GSA7i3GSojvrukKam6lKWBmc7SfVtI_XXkjZl9uTpH9hn3gcZs4qS0uMDaJTlEHVuYHR34wJQJ3ekO0OSyDIJ5Lv-b694YB8R1_2MoHfKylEVFtLgh2aHVtucs6bcMCugGCJAAannTaUFTORm88HZvWDctPBVvPVIBkuFt4yVKWv-ugxXkTvMT-PoULMkgGfj2ohBaK3KhQKey7_l0N8cIeHAbJg0w5vGGtku5L0DY4ji9KdYTsdoNPAc-dQV-2-MsiR0mrldLPBxVOZLQ1TjDOPEbpuPiOmfyHY3NxF_GVVWiQgaMrwMmUoguBlRiesbPXQxxY7bHknDdqe1XhC_SU0gcDC-f91BWHqFWqXFfESwDYsPVsIQ8nPmtp75wuEJbL5mi94khZ9gxW94V2aGeyOYLAw9vkCC9llpA-nbjvnz=w179-h28-no?authuser=0)](https://four-arms-tech.rf.gd)
+[![Website](https://lh3.googleusercontent.com/3W8jsZbqNu0WmXnNqKvamV4sYdTG9QpGYI5TK1mQx3sUsxscYtkp5i1-Eq4EegPeR8QggIW8SbnzPRuzygdCmGuWBl4GgI5_5ePgtnBw6p7_L31ZsFW7GlZwQocyXL6PtMPexsraVq5GOE9tBAMXpCUvd1IOWsWg04BewDrJ4tonx_MUY3iV3ex8GdLN6BI-fh6Ij3BYT8kpI7nxWNeLf-EpvhjD4F_OJ5ZIZo9R_mY7LmcqM2w4_k1-Vn7YCq7sUqQbzun-lxR9Ufe_gUrDvnAKuIRdjPmRGXCv9lcM9Iv0O0rIRCBHyJXu_V5NnfEJLfIEAZOS7ySM1N_Sg1TLNmK8xTT_imdUHEETnnNL2b1MNojPTsl7H4dsZ37l87JmTKwNrUVxoXC-tCCX4HfAHu0ow59DT8-k_5ejAHKK4yDrXWeWhA3crDup9QO0NF3vDQgf1ed0RIl56WzsbYE_km3FAQDqLEApzf8a48GWx1EUgdST6Eyb6EPaSg2WSJB-kWM8084fZUzsETTjWKqLjcSq-Vlktwixk4JEw-081PQf4mk1t74ia8Xa-dvwukOdjCo9MZHt3TBRRijlVFw1ZGWTFAZ2SzCe2OTJQtDzD8GzY0A2L39gdFEaKdZHQ2LqWIIU1RGvaz7sKG93u_en6iIGjGMB3yJw9QvFV7LaxQ5Fv22gxyhP6YtqVwPFp01M-PRUXF1uf9Qe7lxxVTO_Y-AC=w179-h28-no?authuser=0)](http://four-arms-tech.unaux.com)
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/) -->
 
 ## I'm a Son, Husband, Developer, and Teacher!!
@@ -13,11 +13,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="four-arms-tech.unaux.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="devnazmul | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="devnazmul | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" />][facebook]
+[<img align="left" alt="devnazmul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="devnazmul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -117,10 +117,10 @@
 
 <!-- [course]: http://vsCodeHero.com -->
 
-[twitter]: https://twitter.com
+[facebook]: https://www.facebook.com/DevN.Islam
 [youtube]: https://www.youtube.com/channel/UCRxT7tjZNa3h7GM_z-s7pnA/featured
-[instagram]: https://www.instagram.com/dev_md_nazmul/
-[linkedin]: https://www.linkedin.com/in/md-nazmul-limon-11b417171/
+[instagram]: https://www.instagram.com/dev_md_nazmul
+[linkedin]: https://www.linkedin.com/in/md-nazmul-limon-11b417171
 
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
