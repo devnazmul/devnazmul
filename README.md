@@ -13,11 +13,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="four-arms-tech.unaux.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="devnazmul | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="devnazmul | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" />][facebook]
-[<img align="left" alt="devnazmul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="devnazmul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="four-arms-tech.unaux.com" width="22px" src="https://www.freeiconspng.com/thumbs/website-icon/website-icon-11.png" />][website]
+[<img align="left" alt="devnazmul | YouTube" width="22px" src="https://www.pngkey.com/png/full/2-21880_open-youtube-png.png" />][youtube]
+[<img align="left" alt="devnazmul | Twitter" width="22px" src="https://assets.webiconspng.com/uploads/2017/09/Facebook-PNG-Image-71244.png" />][facebook]
+[<img align="left" alt="devnazmul | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="devnazmul | Instagram" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />][instagram]
 
 <br />
 
@@ -43,15 +43,15 @@
 <!-- [webdevplaylist] -->
 <!-- <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" /> -->
 <!-- [webdevplaylist] -->
-<img align="left" alt="SQL" width="26px" src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-thumbnail.png" />
+<img align="left" alt="SQL" width="26px" src="https://icon-library.com/images/php-icon-png/php-icon-png-7.jpg" />
 <!-- [webdevplaylist] -->
 <img align="left" alt="MySQL" width="26px" src="https://freepikpsd.com/media/2019/10/logo-mysql-png-3-Transparent-Images.png" />
 <!-- [webdevplaylist] -->
-<img align="left" alt="MongoDB" width="26px" src="https://www.pngfind.com/pngs/m/511-5114946_mongodb-png-transparent-png.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://i.dlpng.com/static/png/468328_preview.png" />
 <!-- [webdevplaylist] -->
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <!-- [webdevplaylist] -->
-<img align="left" alt="GitHub" width="26px" src="https://w7.pngwing.com/pngs/435/424/png-transparent-github-computer-icons-source-code-github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://www.freeiconspng.com/thumbs/github-icon/git-github-hub-icon-25.png" />
 <!-- [webdevplaylist] -->
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Terminal" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" />
@@ -59,7 +59,7 @@
 <!-- [webdevplaylist] -->
 
 <br />
-<br />
+<!-- <br /> -->
 
 ---
 
