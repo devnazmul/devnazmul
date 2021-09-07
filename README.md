@@ -3,7 +3,8 @@
 [![Website](https://lh3.googleusercontent.com/3W8jsZbqNu0WmXnNqKvamV4sYdTG9QpGYI5TK1mQx3sUsxscYtkp5i1-Eq4EegPeR8QggIW8SbnzPRuzygdCmGuWBl4GgI5_5ePgtnBw6p7_L31ZsFW7GlZwQocyXL6PtMPexsraVq5GOE9tBAMXpCUvd1IOWsWg04BewDrJ4tonx_MUY3iV3ex8GdLN6BI-fh6Ij3BYT8kpI7nxWNeLf-EpvhjD4F_OJ5ZIZo9R_mY7LmcqM2w4_k1-Vn7YCq7sUqQbzun-lxR9Ufe_gUrDvnAKuIRdjPmRGXCv9lcM9Iv0O0rIRCBHyJXu_V5NnfEJLfIEAZOS7ySM1N_Sg1TLNmK8xTT_imdUHEETnnNL2b1MNojPTsl7H4dsZ37l87JmTKwNrUVxoXC-tCCX4HfAHu0ow59DT8-k_5ejAHKK4yDrXWeWhA3crDup9QO0NF3vDQgf1ed0RIl56WzsbYE_km3FAQDqLEApzf8a48GWx1EUgdST6Eyb6EPaSg2WSJB-kWM8084fZUzsETTjWKqLjcSq-Vlktwixk4JEw-081PQf4mk1t74ia8Xa-dvwukOdjCo9MZHt3TBRRijlVFw1ZGWTFAZ2SzCe2OTJQtDzD8GzY0A2L39gdFEaKdZHQ2LqWIIU1RGvaz7sKG93u_en6iIGjGMB3yJw9QvFV7LaxQ5Fv22gxyhP6YtqVwPFp01M-PRUXF1uf9Qe7lxxVTO_Y-AC=w179-h28-no?authuser=0)](http://four-arms-tech.unaux.com)
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/) -->
 
-## I'm a Son, Husband, Developer, and Teacher!!
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> I'm a Son, Husband, Developer, and Teacher!!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning MERN Stack
@@ -18,8 +19,7 @@
 [<img align="left" alt="devnazmul | Twitter" width="22px" src="https://assets.webiconspng.com/uploads/2017/09/Facebook-PNG-Image-71244.png" />][facebook]
 [<img align="left" alt="devnazmul | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 [<img align="left" alt="devnazmul | Instagram" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />][instagram]
-
-<br />
+<br>
 
 ### Languages and Tools:
 
@@ -108,7 +108,7 @@
 
 | ![devnazmul's github stats](https://github-readme-stats.vercel.app/api?username=devnazmul&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnazmul&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnazmul&theme=tokyonight) | <img align="center" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 
 
