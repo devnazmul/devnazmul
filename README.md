@@ -108,9 +108,11 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=devnazmul&show_icons=true&hide_border=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api/?username=devnazmul&show_icons=true" alt="git stats">
+</details>
+<details>
+  <summary>📗 Languages</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnazmul" alt="Github stats">
 </details>
 
 [website]: http://four-arms-tech.unaux.com
