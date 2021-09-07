@@ -106,10 +106,10 @@
 
 <!-- </details> -->
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api/?username=devnazmul&show_icons=true" alt="git stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnazmul" alt="Github stats">
-</details>
+| ![devnazmul's github stats](https://github-readme-stats.vercel.app/api?username=devnazmul&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnazmul&theme=tokyonight) |
+
 
 
 [website]: http://four-arms-tech.unaux.com
