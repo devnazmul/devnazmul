@@ -20,7 +20,7 @@
 [<img align="left" alt="four-arms-tech.unaux.com" width="22px" src="https://www.freeiconspng.com/thumbs/website-icon/website-icon-11.png" />][website]
 [<img align="left" alt="devnazmul | YouTube" width="22px" src="https://www.pngkey.com/png/full/2-21880_open-youtube-png.png" />][youtube]
 [<img align="left" alt="devnazmul | Twitter" width="22px" src="https://assets.webiconspng.com/uploads/2017/09/Facebook-PNG-Image-71244.png" />][facebook]
-[<img align="left" alt="devnazmul | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="devnazmul | LinkedIn" width="22px" src="https://www.linkedin.com/in/devnazmul/" />][linkedin]
 [<img align="left" alt="devnazmul | Instagram" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />][instagram]
 
 <a href="https://www.youtube.com/channel/UCRxT7tjZNa3h7GM_z-s7pnA/featured"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -49,7 +49,7 @@
 <!-- [webdevplaylist] -->
 <img align="left" alt="SQL" width="26px" src="https://icon-library.com/images/php-icon-png/php-icon-png-7.jpg" />
 <!-- [webdevplaylist] -->
-<img align="left" alt="MySQL" width="26px" src="https://freepikpsd.com/media/2019/10/logo-mysql-png-3-Transparent-Images.png" />
+<img align="left" alt="MySQL" width="26px" src="https://i.postimg.cc/6qV6Jzws/kisspng-logo-brand-product-design-font-hikmet-y-ld-z-hikmet-y-ld-z-part-3-5b691de7ef2c29-70782706153.png" />
 <!-- [webdevplaylist] -->
 <img align="left" alt="MongoDB" width="26px" src="https://i.dlpng.com/static/png/468328_preview.png" />
 <!-- [webdevplaylist] -->
