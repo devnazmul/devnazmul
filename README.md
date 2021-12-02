@@ -1,11 +1,8 @@
 # Hi there, I'm Md Nazmul Islam - [devnazmul][website] 👋
 
-[![Website](https://devn-portfolio.netlify.app/)
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/) -->
-
 <a href="https://www.youtube.com/channel/UCRxT7tjZNa3h7GM_z-s7pnA/featured"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> I'm a Son, Husband, Developer, and Teacher!!
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> I'm a Son, a Developer, and a Teacher!!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning MERN Stack
@@ -114,7 +111,7 @@
 
 
 
-[website]: http://four-arms-tech.unaux.com
+[website]: https://devn-portfolio.netlify.app
 
 <!-- [course]: http://vsCodeHero.com -->
 
