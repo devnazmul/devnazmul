@@ -7,7 +7,8 @@
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m a MERN stack developer
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Get a full time job as a web developer
+- 💼 I am currently working in a company as MERN Stack Developer (Remote)
+- 🥅 2023 Goals: Learn the WEB 3.0 Technologies
 - ⚡ Fun fact: I love to code and watching 👻 horror movies
 
 <a href="https://www.youtube.com/channel/UCRxT7tjZNa3h7GM_z-s7pnA/featured"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -23,38 +24,53 @@
 <a href="https://www.youtube.com/channel/UCRxT7tjZNa3h7GM_z-s7pnA/featured"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### Languages and Tools:
-
+<!-- [JAVASCRIPT] -->
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<!-- [jsplaylist] -->
+
+<!-- [REACT] -->
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<!-- [reactplaylist] -->
+
+<!-- [NODE JS] -->
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<!-- [webdevplaylist] -->
-<img align="left" alt="MongoDB" width="26px" src="https://i.dlpng.com/static/png/468328_preview.png" />
-<!-- [webdevplaylist] -->
+<!-- [MONGODB] -->
+<img align="left" alt="MongoDB" width="26px" src="https://i.ibb.co/w7z0b44/mongodb-1.png" />
+
+<!-- [SQL] -->
 <img align="left" alt="SQL" width="26px" src="https://icon-library.com/images/php-icon-png/php-icon-png-7.jpg" />
-<!-- [webdevplaylist] -->
+
+<!-- [MYSQL] -->
 <img align="left" alt="MySQL" width="26px" src="https://i.postimg.cc/6qV6Jzws/kisspng-logo-brand-product-design-font-hikmet-y-ld-z-hikmet-y-ld-z-part-3-5b691de7ef2c29-70782706153.png" />
-<!-- [webdevplaylist] -->
+
+<!-- [HTML] -->
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<!-- webdevplaylist -->
+
+<!-- [CSS -->
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<!-- [cssplaylist] -->
+
+<!-- [SASS] -->
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<!-- [cssplaylist] -->
+
+<!-- [VS CODE] -->
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-
-
-<!-- [webdevplaylist] -->
+<!-- [GIT] -->
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-<!-- [webdevplaylist] -->
+
+<!-- [GITHUB] -->
 <img align="left" alt="GitHub" width="26px" src="https://www.freeiconspng.com/thumbs/github-icon/git-github-hub-icon-25.png" />
-<!-- [webdevplaylist] -->
+
+<!-- [TERMINAL] -->
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<!-- [PYTHON] -->
 <img align="left" alt="Terminal" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" />
+
+
+
+<!-- [GLOWING STRIPE] -->
 <a href="https://www.youtube.com/channel/UCRxT7tjZNa3h7GM_z-s7pnA/featured"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<!-- [webdevplaylist] -->
+
+
 
 <!-- <br /> -->
 
