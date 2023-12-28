@@ -17,7 +17,7 @@
 
 [<img align="left" alt="four-arms-tech.unaux.com" width="22px" src="https://www.freeiconspng.com/thumbs/website-icon/website-icon-11.png" />][website]
 [<img align="left" alt="devnazmul | YouTube" width="22px" src="https://www.pngkey.com/png/full/2-21880_open-youtube-png.png" />][youtube]
-[<img align="left" alt="devnazmul | Twitter" width="22px" src="https://assets.webiconspng.com/uploads/2017/09/Facebook-PNG-Image-71244.png" />][facebook]
+<!--- [<img align="left" alt="devnazmul | Facebook" width="22px" src="https://assets.webiconspng.com/uploads/2017/09/Facebook-PNG-Image-71244.png" />][Facebook] --->
 [<img align="left" alt="devnazmul | LinkedIn" width="22px" src="https://i.postimg.cc/J08DkszL/linkedin.png" />][linkedin]
 [<img align="left" alt="devnazmul | Instagram" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />][instagram]
 
@@ -124,12 +124,13 @@
 
 <!-- [course]: http://vsCodeHero.com -->
 
-[facebook]: https://www.facebook.com/DevN.Islam
-[youtube]: https://www.youtube.com/channel/UCRxT7tjZNa3h7GM_z-s7pnA/featured
+[Facebook]: https://www.facebook.com/DevN.Islam
+[YouTube]: https://www.youtube.com/channel/UCRxT7tjZNa3h7GM_z-s7pnA/featured
 [instagram]: https://www.instagram.com/dev_md_nazmul
 [linkedin]: https://www.linkedin.com/in/devnazmul
 
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/devnazmul/langs)](https://githubtrends.io) -->
