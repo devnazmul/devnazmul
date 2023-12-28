@@ -8,7 +8,7 @@
 - 🌱 I’m a MERN stack developer
 - 👯 I’m looking to collaborate with other content creators
 - 💼 I am currently working in a company as MERN Stack Developer (Remote)
-- 🥅 2023 Goals: Learn the WEB 3.0 Technologies
+- 🥅 2024 Goals: Learn the 🤖AI
 - ⚡ Fun fact: I love to code and watching 👻 horror movies
 
 <a href="https://www.youtube.com/channel/UCRxT7tjZNa3h7GM_z-s7pnA/featured"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -125,7 +125,7 @@
 <!-- [course]: http://vsCodeHero.com -->
 
 [Facebook]: https://www.facebook.com/DevN.Islam
-[YouTube]: https://www.youtube.com/channel/UCRxT7tjZNa3h7GM_z-s7pnA/featured
+[YouTube]: https://www.youtube.com/@fourarmstech5749
 [instagram]: https://www.instagram.com/dev_md_nazmul
 [linkedin]: https://www.linkedin.com/in/devnazmul1332
 
